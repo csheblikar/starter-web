@@ -1,3 +1,12 @@
 ignore.txt
 log/
 .DS_Store
+*.orig
+simple_BACKUP_17880.html
+simple_BACKUP_18006.html
+simple_BASE_17880.html
+simple_BASE_18006.html
+simple_LOCAL_17880.html
+simple_LOCAL_18006.html
+simple_REMOTE_17880.html
+simple_REMOTE_18006.html
